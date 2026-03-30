@@ -1,0 +1,61 @@
+* Oka pranam                      : C,A#,G#,A# 
+* Firestorm × hungry cheetah      : D#m,B,F#,C#
+* Maha ganapathim                 : D,G
+* Akasam enatido × na chelirojave : +4 Am,Em,F,G
+* Oo cheliya                      : D,A,Bm,A
+* Chini chini asa                 : D,A,G,A
+* Yamuna thatilo female           : D,E,D,A
+* Yamuna thatilo male             : D,E,D,A
+* Jugal bandi (urvashi)           : +2 Cm G#m
+* jamu ratri                      : (Dm,F,A#,C)-1
+* Em sandeham                     : D,A,Bm,A
+* Sundari                         : D,A,G,A
+* Maate mantramu × kamani         : D,A,Bm,A
+                                    D,Em,Am
+* Amrutam                         : E,B,A
+* Avnana mashup                   : E,C#m,B,A
+* Chupu chalu oo manmaduda        : G#m,D#m,C#m,F#
+* Arere (happy days)              : (D,G,D,A)+1
+* Sirivenela                      : E,C#m,B,A / -2(D#m,Cm,B,A#m)
+* Yamaha nagari mashup            : (Am,Em,F,G)+2
+* Sita kalyanam                   : G,Em,C,D 
+* chaila chaila                   : Dm, A#,F,Am
+* Andhamaina bamalu               : +1 (Am,Em,F,G)
+* Nanne nanne                     : Am,G,F,G
+* Nee kanti choopuloki            : A#m,G#,F#,G#
+* Chikiri                         : Am,F,C,E
+* Anaganaga                       : d#m,c#m,a#m,g#m
+* My love is gone                 : +3 Am,,Em,F,G
+* Billa                           : E,G,A,B
+* Sada siva                       : Cm,G#,A#
+* Panja mashup                    : c#m,a,f#m,g#m
+* Oka maaru                       : +2 Am,Em,F,G
+* Niluvadam                       : +5 Am,Em,F,G
+* Bommanu geesthe                 : +3 C,Em,F,G
+* Manasu mari mathuga             : C#m,F#m,A,B
+* Chuttamale                      : +4 Am,Em,F,G
+* Yemito                          : +2 Am,Em,F,G
+* Monna kanipinchavu              : B,C#m,F#
+* Chali chaliga                   : +2 Am,F,G
+* Ye mantramo                     : +2 Am,Em,F,G
+* Gaali valuga                    : +2 Am,Em,F,G
+* Sogasu chudu tharama            : +2 C,Am, F,G
+* Alegra                          : intro : A,A#m,A,G
+                                  : Am,F,C,Em 
+* Oye oye                         : +9 Am,Em,F,G
+* Padam etu pothuna (happy days)  : +2 G,Em,C,D
+* Kokki x Ayigiri nandini         : "Cm,D#m,G#m,C#m(kokki)
+                                     G,G#,F,C,A. (Ayigiri nandini)"
+* Powerhouse                      : D#m,Bm,G#,Bm
+* Yedane koyake x cheliya cheliya : Am,G,F,G
+* Shararat                        : Bm,A,G,A
+* Something something             : Dm,Gm,A,C
+* avunu nijam                     : Em,G,A,B
+* dole dole                       : A#m,G#,F#,G#
+* chanchala                       : F,A#m,C,Cm
+* hello rammante                  : Am,Em,Dm,F,G
+* fear song                       : E,F#,G,C,B
+* Manasa vacha                    : D,A,G,A
+* kannulo ni roopame              : +1 F,Dm,C,B / F#m,D#m,C#m,B
+
+ 
