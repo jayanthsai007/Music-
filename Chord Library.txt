@@ -56,6 +56,6 @@
 * hello rammante                  : Am,Em,Dm,F,G
 * fear song                       : E,F#,G,C,B
 * Manasa vacha                    : D,A,G,A
-* kannulo ni roopame              : +1 F,Dm,C,B / F#m,D#m,C#m,B
+* kannulo ni roopame              : +1 F,Dm,C,A# / F#m,D#m,C#m,B
 * Taanu nenu                      : B,F#,E,D#m,G#m
  
