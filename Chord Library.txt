@@ -35,7 +35,7 @@
 * Manasu mari mathuga             : C#m,F#m,A,B
 * Chuttamale                      : +4 Am,Em,F,G
 * Yemito                          : +2 Am,Em,F,G
-* Monna kanipinchavu              : B,C#m,F#
+* Monna kanipinchavu              : B,C#m,F# (G#m , Bm)
 * Chali chaliga                   : +2 Am,F,G
 * Ye mantramo                     : +2 Am,Em,F,G
 * Gaali valuga                    : +2 Am,Em,F,G
